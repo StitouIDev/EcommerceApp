@@ -1,7 +1,7 @@
 # Ecommerce App
 An ecommerce platform :
 
-## **- A client app that allow the users to choose products and purchase them.**
+## **- A client app that allow the users to choose products and purchase them **
 
 
 
