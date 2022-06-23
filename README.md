@@ -1,7 +1,7 @@
 # Ecommerce App
 An ecommerce platform :
 
-## **- A client app that allow the users to choose products and purchase them **
+## - A client app that allow the users to choose products and purchase them
 
 
 
@@ -12,7 +12,7 @@ An ecommerce platform :
 
 
 
-## **- A admin app that allow the users to add categories and products**
+## - A admin app that allow the users to add categories and products
 
 
 
@@ -26,7 +26,7 @@ An ecommerce platform :
 
 
 
-## **- Real-time synchronization and user-event logging**
+## - Real-time synchronization and user-event logging
 
 
 ![Screen Shot 2022-06-21 at 10 17 45 PM](https://user-images.githubusercontent.com/97193403/175011451-538218b6-d6ce-4939-a530-c0f2dab2084a.png)
