@@ -12,7 +12,7 @@ An ecommerce platform :
 
 
 
-## - A admin app that allow the users to add categories and products
+## - A admin app that allow the admin to add categories and products
 
 
 
